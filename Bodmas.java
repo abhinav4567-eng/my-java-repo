@@ -6,6 +6,6 @@ class Bodmas {
        int c=a+b;
        int d=a-b;
        System.out.println("Sum is "+c);
-       System.out.println("multiplication is "+d);
+       System.out.println("substraction is is "+d);
     }
 }
