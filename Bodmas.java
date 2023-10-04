@@ -5,7 +5,9 @@ class Bodmas {
        int b=10;
        int c=a+b;
        int d=a-b;
+       int m=a*b;
        System.out.println("Sum is "+c);
        System.out.println("multiplication is "+d);
+       System.out.println("multiplication is "+m);
     }
 }
