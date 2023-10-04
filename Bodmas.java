@@ -7,9 +7,11 @@ class Bodmas {
        int d=a-b;
        int m=a*b;
        float f=a/b;
+       int t=a*b*c;
        System.out.println("Sum is "+c);
        System.out.println("division is "+f);
        System.out.println("difference is "+d);
        System.out.println("multiplication is "+m);
+       System.out.println("Triple multiplication "+t);
     }
 }
